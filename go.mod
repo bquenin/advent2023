@@ -1,4 +1,4 @@
-module advent2023
+module github.com/bquenin/advent2023
 
 go 1.21.5
 
